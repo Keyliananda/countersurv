@@ -315,18 +315,18 @@ Ziel: vorhandenes Flutter-Repo verstehen und Scope festlegen.
 
 Tasks:
 
-- Flutter-Version, Architektur, State Management, Router, Build-System pruefen
-- Android/iOS Projektstruktur pruefen
-- vorhandene Screens, Themes und Komponenten inventarisieren
-- Datenschutz- und Berechtigungsstrategie dokumentieren
-- Feature Flags fuer riskante/plattformabhaengige Module anlegen
+- [x] Flutter-Version, Architektur, State Management, Router, Build-System pruefen
+- [x] Android/iOS Projektstruktur pruefen
+- [x] vorhandene Screens, Themes und Komponenten inventarisieren
+- [x] Datenschutz- und Berechtigungsstrategie dokumentieren
+- [x] Feature Flags fuer riskante/plattformabhaengige Module anlegen
 
 Akzeptanz:
 
-- App baut lokal
-- Startscreen laeuft
-- Architekturentscheidung dokumentiert
-- erste Teststruktur vorhanden
+- [x] App baut lokal
+- [x] Startscreen laeuft
+- [x] Architekturentscheidung dokumentiert
+- [x] erste Teststruktur vorhanden
 
 ### Phase 1: Lokale Basis und Dashboard
 
@@ -661,4 +661,3 @@ Version 0.5:
 - Soll es ein eigenes Backend geben oder nur statische signierte Registry-Dateien?
 - Soll die App im Store erscheinen oder zunaechst als private APK/TestFlight?
 - Welche Laender stehen in der ersten Broker-Registry im Fokus: Deutschland/EU, USA, UK?
-
